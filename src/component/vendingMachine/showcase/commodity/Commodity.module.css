@@ -1,0 +1,13 @@
+.Commodity{
+    display: inline-block;
+    margin: 1% 1%;
+    border: 1px solid green;
+}
+
+p{
+    text-align: center;
+}
+
+button{
+    
+}
