@@ -14,8 +14,8 @@ class VendingMachine extends Component{
                 <p> Dream Vending Machine </p>
                 <div className = {classes.VendingMachine}>
                     <Showcase />
-                    <PickupPort />
                     <CoinSlot />
+                    <PickupPort />
                 </div>
             </Aux>
         );
